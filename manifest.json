@@ -1,0 +1,12 @@
+{
+    "Name": "Stardew Data Tracking",
+    "Author": "Open Source",
+    "Version": "0.0.1",
+    "Description": "Logs game stats as a .CSV to the player save folder every hour in-game time.",
+    "UniqueID": "Datagoblin.StardewDataTracking",
+    "EntryDll": "StardewDataTracking.dll",
+    "MinimumApiVersion": "3.0.0",
+    "UpdateKeys": [
+        "GitHub:data-goblin/stardew-data-tracking"
+    ]
+}
